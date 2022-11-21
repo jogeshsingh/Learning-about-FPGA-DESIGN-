@@ -8,15 +8,16 @@ This repository contains some introductory level course review about learning ab
  
  What do i need to learn about FPGAs?
  
- To learn about FPGAs isn't a big deal . It is starts with basic building blocks of how computer operates in binary . Yeah ? You got it right . It is just a binary ( Zero's(0) and one's(1)) . Remember!!! You're defining a digital circuit in FPGA , so needn't worry about analogue signal traces like the one we used to in analog design , however in the end everything is analog by nature !!!.
+  To learn about FPGAs isn't a big deal . It is starts with basic building blocks of how computer operates in binary . Yeah ? You got it right . It is just a binary (   Zero's(0) and one's(1)) . Remember!!! You're defining a digital circuit in FPGA , so needn't worry about analogue signal traces like the one we used to in 
+  analog  design , however in the end everything is analog by nature !!!.
  
  One should be knowing how logic gates work.
  (Those who are already familiar with them , just skip to FPGA part 1).
         
-    wanna learn about them ---: click on here...-->>
-     1 .https://www.elprocus.com/basic-logic-gates-with-truth-tables/
+  wanna learn about them ---: click on here...-->>
+  1 .https://www.elprocus.com/basic-logic-gates-with-truth-tables/
 
-    wanna learn how to design using tool --->>
+  wanna learn how to design using tool --->>
     1 .https://en.freedownloadmanager.org/users-choice/Download_Proteus_For_Windows_10.html
     2. https://sourceforge.net/projects/circuit/
     3. https://circuitverse.org/
@@ -27,14 +28,15 @@ This repository contains some introductory level course review about learning ab
  
  How do i design the logic gates in FPGA , or in other words how to define the behaviour of basic digital logic module in FPGA ?
  
- Let's go some years back , when engineers used to define circuits using schematic design editor , which got cumbersome with the time when they found their design got bigger as the moore's law proceeded ,limiting the designer's perspective on interconnecting large buidling block through hundered of thousands of wires coming up inside a single microprocessor. 
+ Let's go some years back , when engineers used to define circuits using schematic design editor , which got cumbersome with the time when they found their design got bigger as the moore's law proceeded ,limiting the designer's perspective on interconnecting large buidling block through hundered of thousands of wires coming up inside a single microprocessor. for someone wanted to gauge heir Digital ciruits learning in depth- : 
+ https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/pages/lecture-notes/
  
  Then in 1985 , Gateway design automation released a language called VERILOG HDL , A hardware  description language , allowing designers to build logic circuits in EDA Software , thus reducing their time to minimal as designers now could look at the schematic generated through HDL code they written through the RTL(Register tranfer level) viewer.
  
  
  # REQUIREMENTS FOR SETTING UP THE FPGA DESIGN ENVIRONMENT
     laptop , pc : windows 10 (for WIN 11 , you may have to setup in virtual box) or linux or Mac.
-    Software    : Xilinx VIVADO (any version after 2015 is fine).
+    Software    : Xilinx VIVADO (any version after 2015 is fine, pretty easy to use with inbuilt simulation envrionment) .
     
     
  
