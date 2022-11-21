@@ -37,7 +37,7 @@ This repository contains some introductory level course review about learning ab
  # REQUIREMENTS FOR SETTING UP THE FPGA DESIGN ENVIRONMENT
     laptop , pc : windows 10 (for WIN 11 , you may have to setup in virtual box) or linux or Mac.
     Software    : Xilinx VIVADO (any version after 2015 is fine, pretty easy to use with inbuilt simulation envrionment) .
-    
+    Storage     : Depends on which version of VIVADO is being installed .
     
  
  # FPGA 01 
