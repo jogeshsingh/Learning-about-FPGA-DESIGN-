@@ -1,5 +1,5 @@
 # Learning-about-FPGA-DESIGN
-This repository contains some introductory level course review about learning about FPGA Design including some tutorials, links to websites and some blogs related to learning about FPGA and RTL Design. 
+This repository contains some introductory level course review about learning about FPGA Design including some tutorials, links to websites and some blogs related to learning about FPGA RTL Design. 
 
 # Introduction
  What is an FPGA?
