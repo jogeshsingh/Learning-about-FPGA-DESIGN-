@@ -10,6 +10,9 @@ This repository contains some introductory level course review about learning ab
  
   To learn about FPGAs isn't a big deal . It is starts with basic building blocks of how computer operates in binary . Yeah ? You got it right . It is just a binary (   Zero's(0) and one's(1)) . Remember!!! You're defining a digital circuit in FPGA , so needn't worry about analogue signal traces like the one we used to in 
   analog  design , however in the end everything is analog by nature !!!.
+  
+       Learning about FPGA is pretty steep learning curve ( I am experiencing it ..) , so don't be disappointed if your design run into erros multiple times.
+       as 
  
  One should be knowing how logic gates work.
  (Those who are already familiar with them , just skip to FPGA part 1).
@@ -33,11 +36,13 @@ This repository contains some introductory level course review about learning ab
  
  Then in 1985 , Gateway design automation released a language called VERILOG HDL , A hardware  description language , allowing designers to build logic circuits in EDA Software , thus reducing their time to minimal as designers now could look at the schematic generated through HDL code they written through the RTL(Register tranfer level) viewer.
  
- 
+  Note -: For installing vivado , make sure you have enough internet data available at your end ..
+  
  # REQUIREMENTS FOR SETTING UP THE FPGA DESIGN ENVIRONMENT
     laptop , pc : windows 10 (for WIN 11 , you may have to setup in virtual box) or linux or Mac.
     Software    : Xilinx VIVADO (any version after 2015 is fine, pretty easy to use with inbuilt simulation envrionment) .
     Storage     : Depends on which version of VIVADO is being installed .
+    Toolchain   : There are many fpga boards available in the market , some are quite costly , but it is upto you which one to choose . 
     
  
  # FPGA 01 
@@ -73,12 +78,14 @@ This repository contains some introductory level course review about learning ab
    2.https://www.reddit.com/r/Verilog/
    3.https://www.reddit.com/r/cpudesign/
    
+   # The only person I have seen demonstrating FPGA Design in Depth ...
+   Thanks to https://github.com/ZipCPU
+   Take a look at his website..
+   1.https://zipcpu.com/
    
   # Miscellaneous 
    1. https://chiphackers.com/lessons/ 
-   2.
-   
-  
+ 
   
   # Open source tool for practicing HDL 
    1. https://www.edaplayground.com/home  ( you can login using your google account , but using that you'll have access to only few tools , others require industrial          verified account ) .
