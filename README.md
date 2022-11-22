@@ -82,9 +82,12 @@ This repository contains some introductory level course review about learning ab
    3.https://www.reddit.com/r/cpudesign/
    
    # The only person I have seen demonstrating FPGA Design in Depth ...
+   
    Thanks to https://github.com/ZipCPU
+  
    Take a look at his website..
-   1.https://zipcpu.com/
+  
+   https://zipcpu.com/
    
   # Miscellaneous 
    1. https://chiphackers.com/lessons/ 
