@@ -31,7 +31,7 @@ This repository contains some introductory level course review about learning ab
  
  How do i design the logic gates in FPGA , or in other words how to define the behaviour of basic digital logic module in FPGA ?
  
- Let's go some years back , when engineers used to define circuits using schematic design editor , which got cumbersome with the time when they found their design got bigger as the moore's law proceeded ,limiting the designer's perspective on interconnecting large buidling block through hundered of thousands of wires coming up inside a single microprocessor. for someone wanted to gauge heir Digital ciruits learning in depth- : 
+ Let's go some years back , when engineers used to define circuits using schematic design editor , which got cumbersome with the time when they found their design got bigger as the moore's law proceeded ,limiting the designer's perspective on interconnecting large buidling block through hundered of thousands of wires coming up inside a single microprocessor. for someone wanted to gauge their Digital ciruits skills in depth- : 
  https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/pages/lecture-notes/
  
  Then in 1985 , Gateway design automation released a language called VERILOG HDL , A hardware  description language , allowing designers to build logic circuits in EDA Software , thus reducing their time to minimal as designers now could look at the schematic generated through HDL code they written through the RTL(Register tranfer level) viewer.
