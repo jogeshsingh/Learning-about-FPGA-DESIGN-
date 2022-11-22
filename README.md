@@ -47,8 +47,35 @@ This repository contains some introductory level course review about learning ab
    3. https://www.sparkfun.com/fpga
    4. https://hardwarebee.com/fpga-design/
    5. https://www.electronicdesign.com/technologies/fpgas/article/21801527/the-principles-of-fpgas
+   6. https://codilime.com/blog/fpga-programming-how-it-works-and-where-it-can-be-used/
    
- # VERILOG
+ # VERILOG 01 
+  Here are some of the resources for learning about VERILGO HDL 
+  1. https://www.chipverify.com/verilog/verilog-tutorial
+  2. https://verilogguide.readthedocs.io/_/downloads/en/latest/pdf/ 
+    ( This one is quite underrated for beginners , you can jump directly to overview(chapter 02 , 
+     staring the verilog section) , as in chapter 01 , author uses the schematic entry so needn't go through it , if you're planning to learn using HDL, but its worth      looking at how schematic capture tool works too ).
+  3. 
+  4.
+    
+  # Miscellaneous 
+   1. https://chiphackers.com/lessons/ 
+   2.
+   
+  
+  
+  # Open source tool for practicing HDL 
+   1. https://www.edaplayground.com/home  ( you can login using your google account , but using that you'll have access to only few tools , others require industrial          verified account ) .
+   2. https://hdlbits.01xz.net/wiki/Main_Page     ( this one is pretty good site , making your fundamentals strong is the one way out from here ).
+   3. https://chipdev.io/                     ( This one is a bit advanced , required some previous experience in writing HDL code) .
+   4.
+   
+  
+   #FPGA TOOLS
+   1. Xilinx(AMD) VIVADO ( webpack edition is free to be installed).
+   2. Quartus prime lite Edition ( from Intel , is free to be installed)
+   3. Modelsim (simulator , for simulating the design , could be installed free with quartus prime lite edition version)
+   
    
  
  
