@@ -76,7 +76,9 @@ This repository contains some introductory level course review about learning ab
    
    # FPGA Reddit page 
    1.https://www.reddit.com/r/FPGA/
+   
    2.https://www.reddit.com/r/Verilog/
+   
    3.https://www.reddit.com/r/cpudesign/
    
    # The only person I have seen demonstrating FPGA Design in Depth ...
