@@ -96,9 +96,8 @@ This repository contains some introductory level course review about learning ab
   
    https://zipcpu.com/
    
-  # Miscellaneous 
-   1. https://chiphackers.com/lessons/ 
- 
+  # Blogs
+   1. https://icdesignwatch.blogspot.com/search/label/ASIC%20RTL
   
   # Open source tool for practicing HDL 
    1. https://www.edaplayground.com/home  ( you can login using your google account , but using that you'll have access to only few tools , others require industrial          verified account ) .
