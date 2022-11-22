@@ -53,6 +53,7 @@ This repository contains some introductory level course review about learning ab
    4. https://hardwarebee.com/fpga-design/
    5. https://www.electronicdesign.com/technologies/fpgas/article/21801527/the-principles-of-fpgas
    6. https://codilime.com/blog/fpga-programming-how-it-works-and-where-it-can-be-used/
+   7. https://www.intel.com/content/dam/support/us/en/programmable/support-resources/bulk-container/pdfs/literature/misc/fpgas-for-dummies-ebook.pdf
    
    
  # VERILOG 01 
@@ -95,6 +96,8 @@ This repository contains some introductory level course review about learning ab
    
   
    # FPGA TOOLS
+    
+   
    1. Xilinx(AMD) VIVADO ( webpack edition is free to be installed).
       https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/archive.html
       
@@ -109,9 +112,15 @@ This repository contains some introductory level course review about learning ab
       Then watch this video to know,  how to get started with ---:
        https://youtu.be/BBtD4PCXqlE
       
-   2. Quartus prime lite Edition ( from Intel , is free to be installed)
+   2. Quartus prime lite Edition + Modelsim simulator( from Intel , is free to be installed)
+      How to install Quartus prime lite edition tool ?
+      watch this video  -:
+      https://youtu.be/HO7yOu0C6bA
       
-   3. Modelsim (simulator , for simulating the design , could be installed free with quartus prime lite edition version)
+      How to get started building the logic and simulating the design in Quartus + Modelsim ?
+      
+      
+      
    
       
  
