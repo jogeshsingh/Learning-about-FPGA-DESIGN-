@@ -56,7 +56,7 @@ This repository contains some introductory level course review about learning ab
    7. https://www.intel.com/content/dam/support/us/en/programmable/support-resources/bulk-container/pdfs/literature/misc/fpgas-for-dummies-ebook.pdf
    
    
-   Reminder !!! in HDL , you're describing a piece of hardware logic not a software , so don't consider HDL as just programming language.
+   Reminder !!! in HDL , you're describing a piece of hardware logic not a software , so don't consider HDL as just another programming language.
    
  # VERILOG 01 
   Here are some of the resources for learning about VERILGO HDL 
