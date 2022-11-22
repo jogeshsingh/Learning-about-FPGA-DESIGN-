@@ -67,7 +67,7 @@ This repository contains some introductory level course review about learning ab
      staring the verilog section) , as in chapter 01 , author uses the schematic entry so needn't go through it , if you're planning to learn using HDL, but its worth      looking at how schematic capture tool works too ).
   3. https://people.ece.cornell.edu/land/courses/ece5760/Verilog/Verilog_index.html
   4. http://www.sunburst-design.com/papers/   ( For learning about Verilog , System verilog design methodologies , UVM and many more advanced concepts ).
-  5. 
+  5. https://www.idc-online.com/technical_references/pdfs/electronic_engineering/RTL_Coding_for_Logic_Synthesis.pdf ( Synthesizable constructs in RTL coding)
    
    # FPGA (online courses links & University lab access material)
   1. https://people.ece.cornell.edu/land/courses/ece5760/
@@ -104,7 +104,7 @@ This repository contains some introductory level course review about learning ab
    1. https://www.edaplayground.com/home  ( you can login using your google account , but using that you'll have access to only few tools , others require industrial          verified account ) .
    2. https://hdlbits.01xz.net/wiki/Main_Page     ( this one is pretty good site , making your fundamentals strong is the one way out from here ).
    3. https://chipdev.io/                     ( This one is a bit advanced , required some previous experience in writing HDL code) .
-   4.
+  
    
   
    # FPGA TOOLS
@@ -133,6 +133,7 @@ This repository contains some introductory level course review about learning ab
       watch this video -:)
       https://youtu.be/YSQnVqXt3do
       
+     
       
       
    
