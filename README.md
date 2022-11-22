@@ -73,7 +73,21 @@ This repository contains some introductory level course review about learning ab
   
    #FPGA TOOLS
    1. Xilinx(AMD) VIVADO ( webpack edition is free to be installed).
+      https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/archive.html
+      
+      For windows 10 -:   https://www.xilinx.com/member/forms/download/xef.html?filename=Xilinx_Unified_2020.3_0407_2214_Win64.exe
+      for Linux      -:   https://www.xilinx.com/member/forms/download/xef.html?filename=Xilinx_Unified_2020.3_0407_2214_Lin64.bin
+      
+      How to install Xilinx VIVADO ?
+      watch this video -:
+      https://youtu.be/yW7t28XaVEs
+     
+      installed the vivado ?
+      Then watch this video to know,  how to get started with ---:
+       https://youtu.be/BBtD4PCXqlE
+      
    2. Quartus prime lite Edition ( from Intel , is free to be installed)
+      
    3. Modelsim (simulator , for simulating the design , could be installed free with quartus prime lite edition version)
    
    
