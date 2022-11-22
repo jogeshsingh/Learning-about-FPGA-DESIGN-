@@ -12,7 +12,7 @@ This repository contains some introductory level course review about learning ab
   analog  design , however in the end everything is analog by nature !!!.
   
        Learning about FPGA is pretty steep learning curve ( I am experiencing it ..) , so don't be disappointed if your design run into erros multiple times.
-       as 
+      
  
  One should be knowing how logic gates work.
  (Those who are already familiar with them , just skip to FPGA part 1).
