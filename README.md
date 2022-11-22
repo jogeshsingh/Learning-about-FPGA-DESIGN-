@@ -119,10 +119,12 @@ This repository contains some introductory level course review about learning ab
       
    2. Quartus prime lite Edition + Modelsim simulator( from Intel , is free to be installed)
       How to install Quartus prime lite edition tool ?
-      watch this video  -:
+      watch this video  -:)
       https://youtu.be/HO7yOu0C6bA
       
       How to get started building the logic and simulating the design in Quartus + Modelsim ?
+      watch this video -:)
+      https://youtu.be/YSQnVqXt3do
       
       
       
