@@ -56,17 +56,24 @@ This repository contains some introductory level course review about learning ab
    7. https://www.intel.com/content/dam/support/us/en/programmable/support-resources/bulk-container/pdfs/literature/misc/fpgas-for-dummies-ebook.pdf
    
    
+   Reminder !!! in HDL , you're describing a piece of hardware logic not a software , so don't consider HDL as just programming language.
+   
  # VERILOG 01 
   Here are some of the resources for learning about VERILGO HDL 
   1. https://www.chipverify.com/verilog/verilog-tutorial
-  2. https://verilogguide.readthedocs.io/_/downloads/en/latest/pdf/ 
+  2. https://acg.cis.upenn.edu/milom/cis371-Spring13/lab/textbook-verilog-tutorial/VOL/main.htm ( This one would surely help you master the concepts of verilog HDL)
+  3. https://verilogguide.readthedocs.io/_/downloads/en/latest/pdf/ 
     ( This one is quite underrated for beginners , you can jump directly to overview(chapter 02 , 
      staring the verilog section) , as in chapter 01 , author uses the schematic entry so needn't go through it , if you're planning to learn using HDL, but its worth      looking at how schematic capture tool works too ).
   3. https://people.ece.cornell.edu/land/courses/ece5760/Verilog/Verilog_index.html
-  4.
+  4. http://www.sunburst-design.com/papers/   ( For learning about Verilog , System verilog design methodologies , UVM and many more advanced concepts ).
+  5. 
    
    # FPGA (online courses links & University lab access material)
   1. https://people.ece.cornell.edu/land/courses/ece5760/
+  2. https://www.coursera.org/specializations/fpga-design ( You can also apply for financial aid ).
+  3. https://www.coursera.org/learn/fpga-intro
+  
 
    # FPGA (e-books)
    1.https://www.fpgakey.com/
