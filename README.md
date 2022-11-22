@@ -49,15 +49,31 @@ This repository contains some introductory level course review about learning ab
    5. https://www.electronicdesign.com/technologies/fpgas/article/21801527/the-principles-of-fpgas
    6. https://codilime.com/blog/fpga-programming-how-it-works-and-where-it-can-be-used/
    
+   
  # VERILOG 01 
   Here are some of the resources for learning about VERILGO HDL 
   1. https://www.chipverify.com/verilog/verilog-tutorial
   2. https://verilogguide.readthedocs.io/_/downloads/en/latest/pdf/ 
     ( This one is quite underrated for beginners , you can jump directly to overview(chapter 02 , 
      staring the verilog section) , as in chapter 01 , author uses the schematic entry so needn't go through it , if you're planning to learn using HDL, but its worth      looking at how schematic capture tool works too ).
-  3. 
+  3. https://people.ece.cornell.edu/land/courses/ece5760/Verilog/Verilog_index.html
   4.
-    
+   
+   # FPGA (online courses links & University lab access material)
+  1. https://people.ece.cornell.edu/land/courses/ece5760/
+
+   # FPGA (e-books)
+   1.https://www.fpgakey.com/
+   
+   # FPGA (Verilog HDL coding examples)
+   1. https://fpgacoding.com/
+   
+   # FPGA Reddit page 
+   1.https://www.reddit.com/r/FPGA/
+   2.https://www.reddit.com/r/Verilog/
+   3.https://www.reddit.com/r/cpudesign/
+   
+   
   # Miscellaneous 
    1. https://chiphackers.com/lessons/ 
    2.
@@ -71,7 +87,7 @@ This repository contains some introductory level course review about learning ab
    4.
    
   
-   #FPGA TOOLS
+   # FPGA TOOLS
    1. Xilinx(AMD) VIVADO ( webpack edition is free to be installed).
       https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/archive.html
       
@@ -90,7 +106,7 @@ This repository contains some introductory level course review about learning ab
       
    3. Modelsim (simulator , for simulating the design , could be installed free with quartus prime lite edition version)
    
-   
+      
  
  
  
