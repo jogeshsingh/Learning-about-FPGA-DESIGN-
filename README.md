@@ -83,6 +83,9 @@ This repository contains some introductory level course review about learning ab
    # FPGA (Verilog HDL coding examples)
    1. https://fpgacoding.com/
    
+   # FPGA cool site
+   1. https://fpga-systems.ru/ ( you can translate in english)
+   
    # FPGA Reddit page 
    1.https://www.reddit.com/r/FPGA/
    
