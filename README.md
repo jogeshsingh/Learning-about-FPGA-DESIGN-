@@ -103,7 +103,19 @@ This repository contains some introductory level course review about learning ab
    
   # Blogs
    1. https://icdesignwatch.blogspot.com/search/label/ASIC%20RTL
-  
+   
+   # Youtube channel 
+    1. https://youtube.com/playlist?list=PL_N6Mn2-rIUL635vG1_Ju4Hu0mRV-S-VV (Digital RTL Design using Verilog)
+    2. https://www.youtube.com/channel/UCRZQvLnnlkJ0vHXGwjNsfNw ( This one is quite good , avaliable in hindi too)
+    3. https://www.youtube.com/@Nandland ( How can we forget about this one , the life saver to beginner like us )
+    4. https://www.youtube.com/c/SimplyEmbedded ( yeah , the guy expalins very nicely , butat quite faster rate).
+    5. https://www.youtube.com/@fpgamadeeasy ( For someone coming from software world to understand verilog ).
+    6. https://www.youtube.com/@FPGAZealot ( This one is pretty advanced ...)
+    7. https://www.youtube.com/@ElectronicswithProfMughal ( Again , the life saver for beginner like us).
+    8. https://www.youtube.com/watch?v=Kt-78I-NUgY&list=PL-iIOnHwN7NXw01eBDR7wI8KzGK4mu8Sr (good one , for practicing Verilog + Vivado Sofware).
+       There are pretty many youtube series on computer architecture too, will soon be posting about ... but FPGAs are pretty different than CPU, so don't stick with          sequential systems only...
+       Enough watching tutorials , then put some hands on HDL & FPGAs. 
+     
   # Open source tool for practicing HDL 
    1. https://www.edaplayground.com/home  ( you can login using your google account , but using that you'll have access to only few tools , others require industrial          verified account ) .
    2. https://hdlbits.01xz.net/wiki/Main_Page     ( this one is pretty good site , making your fundamentals strong is the one way out from here ).
@@ -113,7 +125,6 @@ This repository contains some introductory level course review about learning ab
   
    # FPGA TOOLS
     
-   
    1. Xilinx(AMD) VIVADO ( webpack edition is free to be installed).
       https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/archive.html
       
@@ -136,8 +147,11 @@ This repository contains some introductory level course review about learning ab
       How to get started building the logic and simulating the design in Quartus + Modelsim ?
       watch this video -:)
       https://youtu.be/YSQnVqXt3do
-      
      
+       Reminder !! I am  suggesting only above tools because I have found it pretty easy to grasp the flow, there are many vendors https://hardwarebee.com/list-fpga-          companies/#:~:text=List%20of%20FPGA%20Companies%201%20Xilinx%20%28AMD%29%202,QuickLogic%205%20Microchip%20Technology%206%20Achronix%207%20Efinix , some offer          free versions too, and some not.
+     
+      There are many open source tools too , but as far as learning is considered you can learn it from anywhere . 
+      
       
       
    
