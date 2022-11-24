@@ -105,14 +105,14 @@ This repository contains some introductory level course review about learning ab
    1. https://icdesignwatch.blogspot.com/search/label/ASIC%20RTL
    
    # Youtube channel 
-    1. https://youtube.com/playlist?list=PL_N6Mn2-rIUL635vG1_Ju4Hu0mRV-S-VV (Digital RTL Design using Verilog)
-    2. https://www.youtube.com/channel/UCRZQvLnnlkJ0vHXGwjNsfNw ( This one is quite good , avaliable in hindi too)
-    3. https://www.youtube.com/@Nandland ( How can we forget about this one , the life saver to beginner like us )
-    4. https://www.youtube.com/c/SimplyEmbedded ( yeah , the guy expalins very nicely , butat quite faster rate).
-    5. https://www.youtube.com/@fpgamadeeasy ( For someone coming from software world to understand verilog ).
-    6. https://www.youtube.com/@FPGAZealot ( This one is pretty advanced ...)
-    7. https://www.youtube.com/@ElectronicswithProfMughal ( Again , the life saver for beginner like us).
-    8. https://www.youtube.com/watch?v=Kt-78I-NUgY&list=PL-iIOnHwN7NXw01eBDR7wI8KzGK4mu8Sr (good one , for practicing Verilog + Vivado Sofware).
+   1. https://youtube.com/playlist?list=PL_N6Mn2-rIUL635vG1_Ju4Hu0mRV-S-VV (Digital RTL Design using Verilog)
+   2. https://www.youtube.com/channel/UCRZQvLnnlkJ0vHXGwjNsfNw ( This one is quite good , avaliable in hindi too)
+   3. https://www.youtube.com/@Nandland ( How can we forget about this one , the life saver to beginner like us )
+   4. https://www.youtube.com/c/SimplyEmbedded ( yeah , the guy expalins very nicely , butat quite faster rate).   
+   5. https://www.youtube.com/@fpgamadeeasy ( For someone coming from software world to understand verilog ).
+   6. https://www.youtube.com/@FPGAZealot ( This one is pretty advanced ...)
+   7. https://www.youtube.com/@ElectronicswithProfMughal ( Again , the life saver for beginner like us).
+   8. https://www.youtube.com/watch?v=Kt-78I-NUgY&list=PL-iIOnHwN7NXw01eBDR7wI8KzGK4mu8Sr (good one , for practicing Verilog + Vivado Sofware).
        There are pretty many youtube series on computer architecture too, will soon be posting about ... but FPGAs are pretty different than CPU, so don't stick with          sequential systems only...
        Enough watching tutorials , then put some hands on HDL & FPGAs. 
      
