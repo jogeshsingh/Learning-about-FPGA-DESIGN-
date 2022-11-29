@@ -108,7 +108,7 @@ This repository contains some introductory level course review about learning ab
    1. https://youtube.com/playlist?list=PL_N6Mn2-rIUL635vG1_Ju4Hu0mRV-S-VV (Digital RTL Design using Verilog)
    2. https://www.youtube.com/channel/UCRZQvLnnlkJ0vHXGwjNsfNw ( This one is quite good , avaliable in hindi too)
    3. https://www.youtube.com/@Nandland ( How can we forget about this one , the life saver to beginner like us )
-   4. https://www.youtube.com/c/SimplyEmbedded ( yeah , the guy expalins very nicely , butat quite faster rate).   
+   4. https://www.youtube.com/c/SimplyEmbedded ( yeah , the guy expalins very nicely , but at quite faster rate).   
    5. https://www.youtube.com/@fpgamadeeasy ( For someone coming from software world to understand verilog ).
    6. https://www.youtube.com/@FPGAZealot ( This one is pretty advanced ...)
    7. https://www.youtube.com/@ElectronicswithProfMughal ( Again , the life saver for beginner like us).
