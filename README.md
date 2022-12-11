@@ -70,7 +70,7 @@ This repository contains some introductory level course review about learning ab
   3. https://people.ece.cornell.edu/land/courses/ece5760/Verilog/Verilog_index.html
   4. http://www.sunburst-design.com/papers/   ( For learning about Verilog , System verilog design methodologies , UVM and many more advanced concepts ).
   5. https://www.idc-online.com/technical_references/pdfs/electronic_engineering/RTL_Coding_for_Logic_Synthesis.pdf ( Synthesizable constructs in RTL coding)
-  6. file:///C:/verilog_2001_ref_guide.pdf (from sutherland ) 
+ 
    
    # FPGA (online courses links & University lab access material)
   1. https://people.ece.cornell.edu/land/courses/ece5760/
