@@ -61,7 +61,7 @@ This repository contains some introductory level course review about learning ab
    Reminder !!! in HDL , you're describing a piece of hardware logic not a software , so don't consider HDL as just another programming language.
    
  # VERILOG 01 
-  Here are some of the resources for learning about VERILGO HDL 
+  Here are some of the resources for learning about VERILOG HDL 
   1. https://www.chipverify.com/verilog/verilog-tutorial
   2. https://acg.cis.upenn.edu/milom/cis371-Spring13/lab/textbook-verilog-tutorial/VOL/main.htm ( This one would surely help you master the concepts of verilog HDL)
   3. https://verilogguide.readthedocs.io/_/downloads/en/latest/pdf/ 
