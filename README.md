@@ -14,6 +14,7 @@ This repository contains some introductory level course review about learning ab
   analog  design , however in the end everything is analog by nature !!!.
   
        Learning about FPGA is pretty steep learning curve , so don't be disappointed if your design run into erros multiple times.
+       https://queue.acm.org/detail.cfm?id=3411759
       
  
  One should be knowing how logic gates work.
