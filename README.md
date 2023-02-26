@@ -148,6 +148,8 @@ This repository contains some introductory level course review about learning ab
       watch this video  -:)
       https://youtu.be/HO7yOu0C6bA
       
+      To get started with QuartusPrime Lite GUI -: http://www.cas.mcmaster.ca/~leduc/slides2d04/labs/QuartusTutorials/Quartus_Std_Introduction.pdf
+      
       How to get started building the logic and simulating the design in Quartus + Modelsim ?
       watch this video -:)
       https://youtu.be/YSQnVqXt3do
