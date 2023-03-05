@@ -126,7 +126,7 @@ This repository contains some introductory level course review about learning ab
    2. https://hdlbits.01xz.net/wiki/Main_Page     ( this one is pretty good site , making your fundamentals strong is the one way out from here ).
    3. https://chipdev.io/                     ( This one is a bit advanced , required some previous experience in writing HDL code) .
    
-    # DIGILENT DOCS
+   # DIGILENT DOCS
      https://digilent.com/reference/tag/doc?do=showtag&tag=doc
   
    # FPGA TOOLS
