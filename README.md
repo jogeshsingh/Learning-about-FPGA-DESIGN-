@@ -134,6 +134,8 @@ This repository contains some introductory level course review about learning ab
    1. Xilinx(AMD) VIVADO ( webpack edition is free to be installed).
       https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/archive.html
       
+      https://digilent.com/reference/programmable-logic/guides/installing-vivado-and-vitis
+      
       For windows 10 -:   https://www.xilinx.com/member/forms/download/xef.html?filename=Xilinx_Unified_2020.3_0407_2214_Win64.exe
       for Linux      -:   https://www.xilinx.com/member/forms/download/xef.html?filename=Xilinx_Unified_2020.3_0407_2214_Lin64.bin
       
