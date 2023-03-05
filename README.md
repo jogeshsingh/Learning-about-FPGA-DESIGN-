@@ -106,7 +106,8 @@ This repository contains some introductory level course review about learning ab
    https://zipcpu.com/
    
   # Blogs
-   1. https://icdesignwatch.blogspot.com/search/label/ASIC%20RTL
+  
+  1. https://icdesignwatch.blogspot.com/search/label/ASIC%20RTL
    
    # Youtube channel 
    1. https://youtube.com/playlist?list=PL_N6Mn2-rIUL635vG1_Ju4Hu0mRV-S-VV (Digital RTL Design using Verilog)
