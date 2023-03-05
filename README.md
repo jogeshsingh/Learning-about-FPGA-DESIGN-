@@ -127,7 +127,7 @@ This repository contains some introductory level course review about learning ab
    3. https://chipdev.io/                     ( This one is a bit advanced , required some previous experience in writing HDL code) .
    
    # DIGILENT DOCS
-     https://digilent.com/reference/tag/doc?do=showtag&tag=doc
+   1.  https://digilent.com/reference/tag/doc?do=showtag&tag=doc
   
    # FPGA TOOLS
     
