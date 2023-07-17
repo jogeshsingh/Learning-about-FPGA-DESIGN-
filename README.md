@@ -89,6 +89,7 @@ This repository contains some introductory level course review about learning ab
    # FPGA cool site
    1. https://fpga-systems.ru/ ( you can translate in english)
    2. https://hackernoon.com/getting-started-using-open-source-fpga-tools
+   3. https://openfpga.readthedocs.io/en/latest/overview/motivation/
    
    # FPGA Reddit page 
    1.https://www.reddit.com/r/FPGA/
