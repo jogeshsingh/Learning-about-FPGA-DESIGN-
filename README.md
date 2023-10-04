@@ -133,6 +133,18 @@ This repository contains some introductory level course review about learning ab
    # DIGILENT DOCS
    1.  https://digilent.com/reference/tag/doc?do=showtag&tag=doc
   
+   # Some Websites/Papers for RTL Design Concepts
+   1. https://www.eng.biu.ac.il/temanad/files/2021/12/Synthesizeable-RTL-2021-22.pdf
+   2. https://www.idc-online.com/technical_references/pdfs/electronic_engineering/RTL_Coding_for_Logic_Synthesis.pdf
+   3. https://classes.engineering.wustl.edu/2012/fall/jee2600/Lectures/JEE2600-Lecture-10.pdf
+   4. https://people.ece.ubc.ca/~edc/379.jan99/lectures/lec8.pdf
+   5. http://smdpc2sd.gov.in/downloads/IEP/IEP%208/24-02-18%20Rejender%20pratap.pdf
+   6. https://uweb.engr.arizona.edu/~rlysecky/courses/ece274-08f/uploads/Main/lecture11.pdf
+   7. https://www.cs.ucr.edu/~vahid/dd/dd_vahid_slides_Sep28_2006/dd_vahid_slides_ch4_Sep28_2006_FV.pdf
+   8. https://uweb.engr.arizona.edu/~rlysecky/courses/ece274-07f/lectures/lecture15.pdf
+   9. https://uweb.engr.arizona.edu/~rlysecky/courses/ece274-08f/uploads/Main/lecture14.pdf
+   10. https://ics.uci.edu/~harris/cs151/slides/dd_vahid_ch5.pdf
+  
    # FPGA TOOLS
     
    1. Xilinx(AMD) VIVADO ( webpack edition is free to be installed).
