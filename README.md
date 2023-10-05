@@ -125,13 +125,14 @@ This repository contains some introductory level course review about learning ab
        There are pretty many youtube series on computer architecture too, will soon be posting about ... but FPGAs are pretty different than CPU, so don't stick with          sequential systems only...
        Enough watching tutorials , then put some hands on HDL & FPGAs. 
      
-  # Open source tool for practicing HDL 
+  # Open source tool/websites for practicing HDL 
    1. https://www.edaplayground.com/home  ( you can login using your google account , but using that you'll have access to only few tools , others require industrial          verified account ) .
    2. https://hdlbits.01xz.net/wiki/Main_Page     ( this one is pretty good site , making your fundamentals strong is the one way out from here ).
    3. https://chipdev.io/                     ( This one is a bit advanced , required some previous experience in writing HDL code) .
    
-   # DIGILENT DOCS
+   # DIGILENT/XILINX-AMD DOCS
    1.  https://digilent.com/reference/tag/doc?do=showtag&tag=doc
+   2.  https://www.xilinx.com/support/documents/sw_manuals/xilinx2022_2/ug901-vivado-synthesis.pdf
   
    # Some Websites/Papers for RTL Design Concepts
    1. https://www.eng.biu.ac.il/temanad/files/2021/12/Synthesizeable-RTL-2021-22.pdf
@@ -174,7 +175,9 @@ This repository contains some introductory level course review about learning ab
       watch this video -:)
       https://youtu.be/YSQnVqXt3do
      
-       Reminder !! I am  suggesting only above tools because I have found it pretty easy to grasp the flow, there are many vendors https://hardwarebee.com/list-fpga-          companies/#:~:text=List%20of%20FPGA%20Companies%201%20Xilinx%20%28AMD%29%202,QuickLogic%205%20Microchip%20Technology%206%20Achronix%207%20Efinix , some offer          free versions too, and some not.
+       Reminder !! I am  suggesting only above tools because I have found it pretty easy to grasp the flow, there are many vendors
+      https://hardwarebee.com/list-fpga-          companies/#:~:text=List%20of%20FPGA%20Companies%201%20Xilinx%20%28AMD%29%202,QuickLogic%205%20Microchip%20Technology%206%20Achronix%207%20Efinix ,
+       some offer free versions too, and some not.
      
       There are many open source tools too , but as far as learning is considered you can learn it from anywhere . 
       
