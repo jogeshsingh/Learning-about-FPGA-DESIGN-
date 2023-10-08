@@ -57,6 +57,7 @@ This repository contains some introductory level course review about learning ab
    5. https://www.electronicdesign.com/technologies/fpgas/article/21801527/the-principles-of-fpgas
    6. https://codilime.com/blog/fpga-programming-how-it-works-and-where-it-can-be-used/
    7. https://www.intel.com/content/dam/support/us/en/programmable/support-resources/bulk-container/pdfs/literature/misc/fpgas-for-dummies-ebook.pdf
+   8. https://fpgaconcepts.wordpress.com/2012/05/29/dsp48/
    
    
    Reminder !!! in HDL , you're describing a piece of hardware logic not a software , so don't consider HDL as just another programming language.
