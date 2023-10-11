@@ -7,7 +7,8 @@ This repository contains some introductory level course review about learning ab
  ![OIP](https://user-images.githubusercontent.com/98607828/203379311-a418acb2-a16e-4ce6-9300-4d970efa5113.jpg)
 
  - FPGA - in short , is called as `FIELD PRORGRAMMABLE GATE ARRAYS` . It is a sort of reconfigurable piece of hardware which can be programmed for any number of times , allowing user to change its functionality depending upon what the user wants it to behave like . It consists of large number of configurable logic blocks (including LUTs(Look up tables)  , Flip flops , Multiplexer ) , `Programmable logic interconnect`(responsible for intrconnecting different modules inside the FPGA FABRIC) , and I/O blocks(for communicating with peripherals). 
- 
+
+`<====================================>` 
 `WHAT DO YOU NEED TO LEARN ABOUT FPGAs?`
  
   To learn about FPGAs isn't a big deal . It is starts with basic building blocks of how computer operates in binary . `Yeah` ? You got it right . It is just a binary (   Zero's(`0`) and one's(`1`)) . Remember!!! You're defining a digital circuit in FPGA , so needn't worry about analogue signal traces like the one we used to in analog  design , however in the end everything is analog by nature !!!.
