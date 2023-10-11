@@ -6,24 +6,24 @@ This repository contains some introductory level course review about learning ab
  
  ![OIP](https://user-images.githubusercontent.com/98607828/203379311-a418acb2-a16e-4ce6-9300-4d970efa5113.jpg)
 
- FPGA - in short , is called as FIELD PRORGRAMMABLE GATE ARRAYS . It is a sort of reconfigurable piece of hardware which can be programmed for any number of times , allowing user to change its functionality depending upon what the user wants it to behave like . It consists of large number of configurable logic blocks (including LUTs(Look up tables)  , Flip flops , Multiplexer ) , Programmable logic interconnect(responsible for intrconnecting different modules inside the FPGA FABRIC) , and I/O blocks(for communicating with peripherals). 
+ - FPGA - in short , is called as FIELD PRORGRAMMABLE GATE ARRAYS . It is a sort of reconfigurable piece of hardware which can be programmed for any number of times , allowing user to change its functionality depending upon what the user wants it to behave like . It consists of large number of configurable logic blocks (including LUTs(Look up tables)  , Flip flops , Multiplexer ) , Programmable logic interconnect(responsible for intrconnecting different modules inside the FPGA FABRIC) , and I/O blocks(for communicating with peripherals). 
  
  What do i need to learn about FPGAs?
  
-  To learn about FPGAs isn't a big deal . It is starts with basic building blocks of how computer operates in binary . Yeah ? You got it right . It is just a binary (   Zero's(0) and one's(1)) . Remember!!! You're defining a digital circuit in FPGA , so needn't worry about analogue signal traces like the one we used to in 
+  To learn about FPGAs isn't a big deal . It is starts with basic building blocks of how computer operates in binary . `Yeah` ? You got it right . It is just a binary (   Zero's(0) and one's(1)) . Remember!!! You're defining a digital circuit in FPGA , so needn't worry about analogue signal traces like the one we used to in 
   analog  design , however in the end everything is analog by nature !!!.
   
-   Learning about FPGA is pretty steep learning curve , so don't be disappointed if your design run into erros multiple times.
+  - Learning about FPGA is pretty steep learning curve , so don't be disappointed if your design run into erros multiple times.
        https://queue.acm.org/detail.cfm?id=3411759
       
  
- One should be knowing how logic gates work.
+- One should be knowing how logic gates work.
  (Those who are already familiar with them , just skip to FPGA part 1).
         
-  wanna learn about them ---: click on here...-->>
+-  wanna learn about them ---: click on here...-->>
   1 .https://www.elprocus.com/basic-logic-gates-with-truth-tables/
 
-  wanna learn how to design using tool --->>
+ - wanna learn how to design using tool --->>
     1 .https://en.freedownloadmanager.org/users-choice/Download_Proteus_For_Windows_10.html
     2. https://sourceforge.net/projects/circuit/
     3. https://circuitverse.org/
@@ -34,10 +34,10 @@ This repository contains some introductory level course review about learning ab
  
  How do i design the logic gates in FPGA , or in other words how to define the behaviour of basic digital logic module in FPGA ?
  
- Let's go some years back , when engineers used to define circuits using schematic design editor , which got cumbersome with the time when they found their design got bigger as the moore's law proceeded ,limiting the designer's perspective on interconnecting large buidling block through hundered of thousands of wires coming up inside a single microprocessor. for someone wanted to gauge their Digital ciruits skills in depth- : 
+- Let's go some years back , when engineers used to define circuits using schematic design editor , which got cumbersome with the time when they found their design got bigger as the moore's law proceeded ,limiting the designer's perspective on interconnecting large buidling block through hundered of thousands of wires coming up inside a single microprocessor. for someone wanted to gauge their Digital ciruits skills in depth- : 
  https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/pages/lecture-notes/
  
- Then in 1985 , Gateway design automation released a language called VERILOG HDL , A hardware  description language , allowing designers to build logic circuits in EDA Software , thus reducing their time to minimal as designers now could look at the schematic generated through HDL code they written through the RTL(Register tranfer level) viewer.
+- Then in 1985 , Gateway design automation released a language called VERILOG HDL , A hardware  description language , allowing designers to build logic circuits in EDA Software , thus reducing their time to minimal as designers now could look at the schematic generated through HDL code they written through the RTL(Register tranfer level) viewer.
  
   Note -: For installing vivado , make sure you have enough internet data available at your end ..
   
