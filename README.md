@@ -34,7 +34,7 @@ This repository contains some introductory level course review about learning ab
  
  I know , Many of us are familiar with those . but how do those things actually get implemented in physical hardware. Now this stuff gets down to CMOS (Complementary Metal Oxide Semiconductor ) , that's another part of story , beacuse in FPGA we don't need to define and build the CMOS from scratch , like in ASIC there it is necessary in some cases while developing standard cell librray in EDA tools. But in FPGA , we just need to know Logic gates and their functionality . 
  
- Remember this is the beginning while learning about FPGA....
+ `Remember!` this is the beginning while learning about FPGA....
  
  How do i design the logic gates in FPGA , or in other words how to define the behaviour of basic digital logic module in FPGA ?
  
