@@ -26,11 +26,11 @@ This repository contains some introductory level course review about learning ab
 
  - wanna learn how to design using tool --->>
 
-    1 .https://en.freedownloadmanager.org/users-choice/Download_Proteus_For_Windows_10.html
+      .https://en.freedownloadmanager.org/users-choice/Download_Proteus_For_Windows_10.html
 
-    2. https://sourceforge.net/projects/circuit/
+      .https://sourceforge.net/projects/circuit/
 
-    3. https://circuitverse.org/
+      .https://circuitverse.org/
  
  I know , Many of us are familiar with those . but how do those things actually get implemented in physical hardware. Now this stuff gets down to CMOS (Complementary Metal Oxide Semiconductor ) , that's another part of story , beacuse in FPGA we don't need to define and build the CMOS from scratch , like in ASIC there it is necessary in some cases while developing standard cell librray in EDA tools. But in FPGA , we just need to know Logic gates and their functionality . 
  
