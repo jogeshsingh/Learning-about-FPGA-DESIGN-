@@ -17,7 +17,7 @@ This repository contains some introductory level course review about learning ab
       
  
 - One should be knowing how logic gates work.
- (Those who are already familiar with them , just skip to FPGA part 1).
+ (Those who are already familiar with them , just skip to `FPGA 01`) .
         
 -  wanna learn about them ---: click on here...-->>
   1 .https://www.elprocus.com/basic-logic-gates-with-truth-tables/
