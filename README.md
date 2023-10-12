@@ -87,7 +87,7 @@ This repository contains some introductory level course review about learning ab
   
 
    # FPGA (e-books)
-   1.https://www.fpgakey.com/
+   1. https://www.fpgakey.com/
    
    # FPGA (Verilog HDL coding examples)
    1. https://fpgacoding.com/
@@ -114,9 +114,9 @@ This repository contains some introductory level course review about learning ab
   
    https://zipcpu.com/
    
-  # Blogs
+   # Blogs
   
-  1. https://icdesignwatch.blogspot.com/search/label/ASIC%20RTL
+   1. https://icdesignwatch.blogspot.com/search/label/ASIC%20RTL
    
    # Youtube channel 
    1. https://youtube.com/playlist?list=PL_N6Mn2-rIUL635vG1_Ju4Hu0mRV-S-VV (Digital RTL Design using Verilog)
