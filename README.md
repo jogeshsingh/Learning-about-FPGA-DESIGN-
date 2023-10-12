@@ -54,7 +54,7 @@ This repository contains some introductory level course review about learning ab
  
  # FPGA 01 
    Here I am posting some introductory links for gearing yourself up ahead --:
-   1. [FPGA Tutorial] [https://fpgatutorial.com/]
+   1. [FPGA Tutorial] (https://fpgatutorial.com/)
    2. http://www.asic-world.com/verilog/veritut.html ( for verilog refresh)
    3. https://www.sparkfun.com/fpga
    4. https://hardwarebee.com/fpga-design/
