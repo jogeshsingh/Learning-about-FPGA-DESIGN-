@@ -1,4 +1,4 @@
-# Learning-about-FPGA-DESIGN
+ # Learning-about-FPGA-DESIGN
 This repository contains some introductory level course review about learning about FPGA Design including some tutorials, links to websites and some blogs related to learning about FPGA RTL Design. 
 
 # Introduction
@@ -100,11 +100,12 @@ This repository contains some introductory level course review about learning ab
    5. https://openfpga.readthedocs.io/en/latest/overview/motivation/
    
    # FPGA Reddit page 
-   1.https://www.reddit.com/r/FPGA/
    
-   2.https://www.reddit.com/r/Verilog/
+   1. https://www.reddit.com/r/FPGA/
    
-   3.https://www.reddit.com/r/cpudesign/
+   2. https://www.reddit.com/r/Verilog/
+   
+   3. https://www.reddit.com/r/cpudesign/
    
    # The only person I have seen demonstrating FPGA Design in Depth ...
    
