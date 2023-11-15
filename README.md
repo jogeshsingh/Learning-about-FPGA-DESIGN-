@@ -151,6 +151,11 @@ This repository contains some introductory level course review about learning ab
    8. https://uweb.engr.arizona.edu/~rlysecky/courses/ece274-07f/lectures/lecture15.pdf
    9. https://uweb.engr.arizona.edu/~rlysecky/courses/ece274-08f/uploads/Main/lecture14.pdf
    10. https://ics.uci.edu/~harris/cs151/slides/dd_vahid_ch5.pdf
+
+   ## Some MIT Papers on FSM Design
+
+   1. [Link_FSM](http://web.mit.edu/6.111/volume2/OldFiles/www/f2018/handouts/L06_4.pdf)
+   
   
    # FPGA TOOLS
     
