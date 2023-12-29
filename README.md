@@ -178,21 +178,27 @@ This repository contains some introductory level course review about learning ab
        https://youtu.be/BBtD4PCXqlE
       
    2. Quartus prime lite Edition + Modelsim simulator( from Intel , is free to be installed)
-      How to install Quartus prime lite edition tool ?
-      watch this video  -:)
-      https://youtu.be/HO7yOu0C6bA
+
+      - How to install Quartus prime lite edition tool ?
+
+        watch this video  -:)
+
+        [CHECK_HERE](https://youtu.be/HO7yOu0C6bA)
       
-      To get started with QuartusPrime Lite GUI -: http://www.cas.mcmaster.ca/~leduc/slides2d04/labs/QuartusTutorials/Quartus_Std_Introduction.pdf
+      - To get started with QuartusPrime Lite GUI -: http://www.cas.mcmaster.ca/~leduc/slides2d04/labs/QuartusTutorials/Quartus_Std_Introduction.pdf
       
-      How to get started building the logic and simulating the design in Quartus + Modelsim ?
-      watch this video -:)
-      https://youtu.be/YSQnVqXt3do
+      - How to get started building the logic and simulating the design in Quartus + Modelsim ?
+        watch this video -:)
+
+        [CLICK_HERE](https://youtu.be/YSQnVqXt3do)
      
-       Reminder !! I am  suggesting only above tools because I have found it pretty easy to grasp the flow, there are many vendors
-      https://hardwarebee.com/list-fpga-          companies/#:~:text=List%20of%20FPGA%20Companies%201%20Xilinx%20%28AMD%29%202,QuickLogic%205%20Microchip%20Technology%206%20Achronix%207%20Efinix ,
-       some offer free versions too, and some not.
+      - Reminder !! I am  suggesting only above tools because I have found it pretty easy to grasp the flow, there are many vendors
      
-      There are many open source tools too , but as far as learning is considered you can learn it from anywhere . 
+        [CHCECK_HERE](https://hardwarebee.com/list-fpga-)   
+       
+        some offer free versions too, and some not.
+     
+        There are many open source tools too , but as far as learning is considered you can learn it from anywhere . 
       
       
       
