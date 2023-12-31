@@ -161,7 +161,7 @@ This repository contains some introductory level course review about learning ab
   
    # FPGA TOOLS
     
-   1. Xilinx(AMD) VIVADO ( webpack edition is free to be installed).
+   1. `Xilinx(AMD) VIVADO ( webpack edition is free to be installed)`.
 
       -[XILINX_AMD](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/archive.html)
       
@@ -182,7 +182,7 @@ This repository contains some introductory level course review about learning ab
 
      [LINK](https://youtu.be/BBtD4PCXqlE)
       
-   3. Quartus prime lite Edition + Modelsim simulator( from Intel , is free to be installed)
+   2. `Quartus prime lite Edition + Modelsim simulator( from Intel , is free to be installed)`
 
       - How to install Quartus prime lite edition tool ?
 
