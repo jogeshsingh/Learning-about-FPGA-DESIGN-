@@ -162,22 +162,27 @@ This repository contains some introductory level course review about learning ab
    # FPGA TOOLS
     
    1. Xilinx(AMD) VIVADO ( webpack edition is free to be installed).
-      https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/archive.html
+
+      -[XILINX_AMD](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/archive.html)
       
-      https://digilent.com/reference/programmable-logic/guides/installing-vivado-and-vitis
+      - [DIGILENT_TUTORIAL_INSTALLING_VIVADO_VITIS](https://digilent.com/reference/programmable-logic/guides/installing-vivado-and-vitis)
       
-      For windows 10 -:   https://www.xilinx.com/member/forms/download/xef.html?filename=Xilinx_Unified_2020.3_0407_2214_Win64.exe
-      for Linux      -:   https://www.xilinx.com/member/forms/download/xef.html?filename=Xilinx_Unified_2020.3_0407_2214_Lin64.bin
+      - For windows 10 -:   [Link](https://www.xilinx.com/member/forms/download/xef.html?filename=Xilinx_Unified_2020.3_0407_2214_Win64.exe)
+
+      - for Linux      -:   [Link](https://www.xilinx.com/member/forms/download/xef.html?filename=Xilinx_Unified_2020.3_0407_2214_Lin64.bin)
       
-      How to install Xilinx VIVADO ?
-      watch this video -:
-      https://youtu.be/yW7t28XaVEs
+      - How to install Xilinx VIVADO ?
+
+      - watch this video -:
+       [Link](https://youtu.be/yW7t28XaVEs)
      
-      installed the vivado ?
-      Then watch this video to know,  how to get started with ---:
-       https://youtu.be/BBtD4PCXqlE
+   ### installed the vivado ?
+
+   - Then watch this video to know,  how to get started with ---:
+
+     [LINK](https://youtu.be/BBtD4PCXqlE)
       
-   2. Quartus prime lite Edition + Modelsim simulator( from Intel , is free to be installed)
+   3. Quartus prime lite Edition + Modelsim simulator( from Intel , is free to be installed)
 
       - How to install Quartus prime lite edition tool ?
 
@@ -185,7 +190,9 @@ This repository contains some introductory level course review about learning ab
 
         [CHECK_HERE](https://youtu.be/HO7yOu0C6bA)
       
-      - To get started with QuartusPrime Lite GUI -: http://www.cas.mcmaster.ca/~leduc/slides2d04/labs/QuartusTutorials/Quartus_Std_Introduction.pdf
+      - To get started with QuartusPrime Lite GUI -:
+      
+        [Link](http://www.cas.mcmaster.ca/~leduc/slides2d04/labs/QuartusTutorials/Quartus_Std_Introduction.pdf)
       
       - How to get started building the logic and simulating the design in Quartus + Modelsim ?
         watch this video -:)
