@@ -201,7 +201,7 @@ This repository contains some introductory level course review about learning ab
      
       - Reminder !! I am  suggesting only above tools because I have found it pretty easy to grasp the flow, there are many vendors
      
-        [CHCECK_HERE](https://hardwarebee.com/list-fpga-)   
+        [CHECK_HERE](https://hardwarebee.com/list-fpga-)   
        
         some offer free versions too, and some not.
      
