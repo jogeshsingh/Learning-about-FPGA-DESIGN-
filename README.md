@@ -80,7 +80,7 @@ This repository contains some introductory level course review about learning ab
   5. https://www.idc-online.com/technical_references/pdfs/electronic_engineering/RTL_Coding_for_Logic_Synthesis.pdf ( Synthesizable constructs in RTL coding)
   6.  [Intro to Verilog I.pdf](https://github.com/jogeshsingh/Learning-about-FPGA-DESIGN-/files/10299755/Intro.to.Verilog.I.pdf)
   7. https://vlsicoding.blogspot.com/search/label/Digital%20Design
-  8. https://www.01signal.com/
+  8. [O1_SIGNAL](https://www.01signal.com/)
 
    # FPGA (online courses links & University lab access material)
   1. https://people.ece.cornell.edu/land/courses/ece5760/
