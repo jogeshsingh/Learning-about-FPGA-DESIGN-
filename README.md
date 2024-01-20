@@ -70,7 +70,7 @@ This repository contains some introductory level course review about learning ab
    
  # VERILOG 01 
   Here are some of the resources for learning about VERILOG HDL 
-  1. https://www.chipverify.com/verilog/verilog-tutorial
+  1. [CHIP_VERIFY](https://www.chipverify.com/verilog/verilog-tutorial)
   2. https://acg.cis.upenn.edu/milom/cis371-Spring13/lab/textbook-verilog-tutorial/VOL/main.htm ( This one would surely help you master the concepts of verilog HDL)
   3. https://verilogguide.readthedocs.io/_/downloads/en/latest/pdf/ 
     ( This one is quite underrated for beginners , you can jump directly to overview(chapter 02 , 
