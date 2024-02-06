@@ -10,7 +10,7 @@ This repository contains some introductory level course review about learning ab
 
  - `What are Look-up Tables inside of an FPGA Architecture ?` [Check_here](https://hardwarebee.com/overview-of-lookup-tables-in-fpga-design/)
 
-`<==========================================================================================================>` 
+    
 
  `WHAT DO YOU NEED TO LEARN ABOUT FPGAs?`
  
