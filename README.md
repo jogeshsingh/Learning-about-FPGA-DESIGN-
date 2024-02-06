@@ -14,9 +14,12 @@ This repository contains some introductory level course review about learning ab
 
  `WHAT DO YOU NEED TO LEARN ABOUT FPGAs?`
  
-  To learn about FPGAs isn't a big deal . It is starts with basic building blocks of how computer operates in binary . `Yeah` ? You got it right . It is just a binary (   Zero's(`0`) and one's(`1`)) . Remember!!! You're defining a digital circuit in FPGA , so needn't worry about analogue signal traces like the one we used to in analog  design , however in the end everything is analog by nature !!!.
-  
-  - Learning about FPGA is pretty steep learning curve , so don't be disappointed if your design run into erros multiple times.
+-  Learning about FPGAs isn't a big deal . It is starts with basic building blocks of how computer operates in binary . `Yeah` ?
+-  You got it right . It is just a binary (   Zero's(`0`) and one's(`1`)) .
+-  Remember!!! You're defining a digital circuit in FPGA , so needn't worry about analogue signal traces like the one we used to in analog  design ,
+- `however` in the end everything is `analog` by nature !!!.
+
+- Learning about FPGA is pretty steep learning curve , so don't be disappointed if your design run into erros multiple times.
        https://queue.acm.org/detail.cfm?id=3411759
       
  
