@@ -2,7 +2,7 @@
 This repository contains some introductory level course review about learning about FPGA Design including some tutorials, links to websites and some blogs related to FPGA RTL Design. 
 
 # Introduction
- What is an FPGA?
+ What is an `FPGA` ?
  
  ![OIP](https://user-images.githubusercontent.com/98607828/203379311-a418acb2-a16e-4ce6-9300-4d970efa5113.jpg)
 
