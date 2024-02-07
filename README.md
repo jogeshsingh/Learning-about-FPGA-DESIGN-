@@ -143,7 +143,7 @@ This repository contains some introductory level course review for learning abou
    
    # DIGILENT/XILINX-AMD DOCS
    1.  [DIGILENT](https://digilent.com/reference/tag/doc?do=showtag&tag=doc)
-   2.  https://www.xilinx.com/support/documents/sw_manuals/xilinx2022_2/ug901-vivado-synthesis.pdf
+   2.  [AMD_XILINX_VIVADO_SYNHESIS_GUIDE](https://www.xilinx.com/support/documents/sw_manuals/xilinx2022_2/ug901-vivado-synthesis.pdf)
   
    # Some Websites/Papers for RTL Design Concepts
    1. https://www.eng.biu.ac.il/temanad/files/2021/12/Synthesizeable-RTL-2021-22.pdf
