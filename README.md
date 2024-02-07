@@ -137,9 +137,9 @@ This repository contains some introductory level course review for learning abou
        Enough watching tutorials , then put some hands on HDL & FPGAs. 
      
   # Open source tool/websites for practicing HDL 
-   1. https://www.edaplayground.com/home  ( you can login using your google account , but using that you'll have access to only few tools , others require industrial          verified account ) .
-   2. https://hdlbits.01xz.net/wiki/Main_Page     ( this one is pretty good site , making your fundamentals strong is the one way out from here ).
-   3. https://chipdev.io/                     ( This one is a bit advanced , required some previous experience in writing HDL code) .
+   1. [Edaplayground](https://www.edaplayground.com/home) ( you can login using your google account , but using that you'll have access to only few tools , others require industrial verified account ) .
+   2. [HDL_BITS](https://hdlbits.01xz.net/wiki/Main_Page) ( this one is pretty good site , making your fundamentals strong is the one way out from here ).
+   3. [Chip_dev](https://chipdev.io/)                     ( This one is a bit advanced , required some previous experience in writing HDL code , however beginner can try) .
    
    # DIGILENT/XILINX-AMD DOCS
    1.  [DIGILENT](https://digilent.com/reference/tag/doc?do=showtag&tag=doc)
