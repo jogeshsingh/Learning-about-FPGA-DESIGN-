@@ -142,7 +142,7 @@ This repository contains some introductory level course review for learning abou
    3. https://chipdev.io/                     ( This one is a bit advanced , required some previous experience in writing HDL code) .
    
    # DIGILENT/XILINX-AMD DOCS
-   1.  https://digilent.com/reference/tag/doc?do=showtag&tag=doc
+   1.  [DIGILENT](https://digilent.com/reference/tag/doc?do=showtag&tag=doc)
    2.  https://www.xilinx.com/support/documents/sw_manuals/xilinx2022_2/ug901-vivado-synthesis.pdf
   
    # Some Websites/Papers for RTL Design Concepts
