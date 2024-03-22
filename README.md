@@ -104,13 +104,15 @@ This repository contains some introductory level course review for learning abou
    4. https://hackernoon.com/getting-started-using-open-source-fpga-tools
    5. https://openfpga.readthedocs.io/en/latest/overview/motivation/
    
-   # FPGA Reddit page 
+   # FPGA page 
    
-   1. https://www.reddit.com/r/FPGA/
+   1. [R/FPGA](https://www.reddit.com/r/FPGA/)
    
-   2. https://www.reddit.com/r/Verilog/
+   2. [VERILOG](https://www.reddit.com/r/Verilog/)
    
-   3. https://www.reddit.com/r/cpudesign/
+   3. [CPU_DESIGN](https://www.reddit.com/r/cpudesign/)
+
+   4. [EEVBLOG_FPGA](https://www.eevblog.com/forum/fpga/)
    
    # The only person I have seen demonstrating FPGA Design in Depth ...
    
