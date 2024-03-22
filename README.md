@@ -25,16 +25,15 @@ This repository contains some introductory level course review for learning abou
 - One should be knowing how logic gates work.
  (Those who are already familiar with them , just skip to `FPGA 01`) .
         
--  wanna learn about them ---: click on here...-->>
-  1 .https://www.elprocus.com/basic-logic-gates-with-truth-tables/
+-  wanna learn about them ---: [click_on_here](https://www.elprocus.com/basic-logic-gates-with-truth-tables/)
 
- - wanna learn how to design using tool --->>
+ - wanna learn how to design using tool 
 
-      https://en.freedownloadmanager.org/users-choice/Download_Proteus_For_Windows_10.html
+    [PROTEUS](https://en.freedownloadmanager.org/users-choice/Download_Proteus_For_Windows_10.html)
 
       https://sourceforge.net/projects/circuit/
 
-      https://circuitverse.org/
+    [CIRCUIT_VERSE](https://circuitverse.org/)
  
  I know , Many of us are familiar with those . but how do those things actually get implemented in physical hardware. Now this stuff gets down to CMOS (Complementary Metal Oxide Semiconductor ) , that's another part of story , beacuse in FPGA we don't need to define and build the CMOS from scratch , like in ASIC there it is necessary in some cases while developing standard cell librray in EDA tools. But in FPGA , we just need to know Logic gates and their functionality . 
  
