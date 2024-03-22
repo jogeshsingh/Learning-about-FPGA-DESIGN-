@@ -10,9 +10,7 @@ This repository contains some introductory level course review for learning abou
 
  - `What are Look-up Tables inside of an FPGA Architecture ?` [Check_here](https://hardwarebee.com/overview-of-lookup-tables-in-fpga-design/)
 
-    
-
- `WHAT DO YOU NEED TO LEARN ABOUT FPGAs?`
+  **`WHAT DO YOU NEED TO LEARN ABOUT FPGAs?`**
  
 -  Learning about FPGAs isn't a big deal . It is starts with basic building blocks of how computer operates in binary . `Yeah` ?
 -  You got it right . It is just a binary (   Zero's(`0`) and one's(`1`)) .
@@ -20,7 +18,8 @@ This repository contains some introductory level course review for learning abou
 - `however` in the end everything is `analog` by nature !!!.
 
 - Learning about FPGA is pretty steep learning curve , so don't be disappointed if your design run into erros multiple times.
-       https://queue.acm.org/detail.cfm?id=3411759
+
+  https://queue.acm.org/detail.cfm?id=3411759
       
  
 - One should be knowing how logic gates work.
