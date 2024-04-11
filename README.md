@@ -65,7 +65,7 @@ This repository contains some introductory level course review for learning abou
    6. [CODELIME_BLOG](https://codilime.com/blog/fpga-programming-how-it-works-and-where-it-can-be-used/)
    7. [INTEL_FPGA_FOR_DUMMIES](https://www.intel.com/content/dam/support/us/en/programmable/support-resources/bulk-container/pdfs/literature/misc/fpgas-for-dummies-ebook.pdf)
    8. [FPGA_CONCEPTS](https://fpgaconcepts.wordpress.com/2012/05/29/dsp48/)
-   
+   9. [Getting_Started_with_VIVADO](https://engr210.github.io/projects/vivado_tutorial.html#creating-a-vivado-project)
    
    Reminder !!! in HDL , you're describing a piece of hardware logic not a software , so don't consider HDL as just another programming language.
    
