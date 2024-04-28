@@ -83,6 +83,10 @@ This repository contains some introductory level course review for learning abou
   7. https://vlsicoding.blogspot.com/search/label/Digital%20Design
   8. [O1_SIGNAL](https://www.01signal.com/)
 
+ # VHDL
+
+  1. [Sythesizable_vhdl](https://www1.cs.columbia.edu/~sedwards/classes/2011/4840/vhdl.pdf)
+
    # FPGA (online courses links & University lab access material)
   1. https://people.ece.cornell.edu/land/courses/ece5760/
   2. https://www.coursera.org/specializations/fpga-design ( You can also apply for financial aid ).
