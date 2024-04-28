@@ -87,7 +87,12 @@ This repository contains some introductory level course review for learning abou
 
   1. [Sythesizable_vhdl](https://www1.cs.columbia.edu/~sedwards/classes/2011/4840/vhdl.pdf)
 
-   # FPGA (online courses links & University lab access material)
+ # SOC
+
+ 1. [LINK](https://www.cl.cam.ac.uk/teaching//1718/SysOnChip/pdfnotes/Notes-RevA-First-Half.pdf)
+
+    
+  # FPGA (online courses links & University lab access material)
   1. https://people.ece.cornell.edu/land/courses/ece5760/
   2. https://www.coursera.org/specializations/fpga-design ( You can also apply for financial aid ).
   3. https://www.coursera.org/learn/fpga-intro
