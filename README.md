@@ -6,7 +6,7 @@ This repository contains some introductory level course review for learning abou
  
  ![OIP](https://user-images.githubusercontent.com/98607828/203379311-a418acb2-a16e-4ce6-9300-4d970efa5113.jpg)
 
- - `FPGA` - in short , is called as `FIELD PRORGRAMMABLE GATE ARRAYS` . It is a sort of reconfigurable piece of hardware which can be programmed for any number of times , allowing user to change its functionality depending upon what the user wants it to behave like . It consists of large number of configurable logic blocks (including LUTs(Look up tables)  , Flip flops , Multiplexer ) , `Programmable logic interconnect`(responsible for intrconnecting different modules inside the FPGA FABRIC) , and I/O blocks(for communicating with peripherals).
+ - `FPGA` - in short , is called as `FIELD PRORGRAMMABLE GATE ARRAYS` . It is a sort of reconfigurable piece of hardware which can be programmed for any number of times , allowing user to change its functionality depending upon what the user wants it to behave like . It consists of large number of configurable logic blocks (including LUTs(Look up tables)  , Flip flops , Multiplexer ) , `Programmable logic interconnect`(responsible for interconnecting different modules inside of an FPGA FABRIC) , and I/O blocks(for communicating with peripherals).
 
  - `What are Look-up Tables inside of an FPGA Architecture ?` [Check_here](https://hardwarebee.com/overview-of-lookup-tables-in-fpga-design/)
 
