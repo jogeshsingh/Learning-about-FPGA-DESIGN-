@@ -111,6 +111,7 @@ This repository contains some introductory level course review for learning abou
    3. http://fpgacpu.ca/
    4. https://hackernoon.com/getting-started-using-open-source-fpga-tools
    5. https://openfpga.readthedocs.io/en/latest/overview/motivation/
+   6. https://fpgadigest.substack.com/
    
    # FPGA page 
    
