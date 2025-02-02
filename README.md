@@ -170,9 +170,10 @@ This repository contains some introductory level course review for learning abou
    9. https://uweb.engr.arizona.edu/~rlysecky/courses/ece274-08f/uploads/Main/lecture14.pdf
    10. https://ics.uci.edu/~harris/cs151/slides/dd_vahid_ch5.pdf
 
-   ## Some MIT Papers on FSM Design
+   ## Some Papers on FSM Design
 
    1. [Link_FSM](http://web.mit.edu/6.111/volume2/OldFiles/www/f2018/handouts/L06_4.pdf)
+   2. [Link_optimization](https://docs.amd.com/v/u/en-US/wp275)
    
   
    # FPGA TOOLS
