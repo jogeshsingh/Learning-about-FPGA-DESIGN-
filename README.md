@@ -101,6 +101,7 @@ This repository contains some introductory level course review for learning abou
    # FPGA (e-books)
    1. https://www.fpgakey.com/
    2. [Design_warrior_guide_to_fpga](https://blog.aku.edu.tr/ismailkoyuncu/files/2017/04/01_ebook.pdf)
+   3. [DIGILENT_FPGA_HANDBOOK](https://files.digilent.com/reference/Field_Programmable_Gate_Arrays_Explained.pdf)
    
    # FPGA (Verilog HDL coding examples)
    1. https://fpgacoding.com/
