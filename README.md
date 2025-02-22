@@ -91,12 +91,16 @@ This repository contains some introductory level course review for learning abou
 
  1. [LINK](https://www.cl.cam.ac.uk/teaching//1718/SysOnChip/pdfnotes/Notes-RevA-First-Half.pdf)
 
+ 
     
   # FPGA (online courses links & University lab access material)
   1. https://people.ece.cornell.edu/land/courses/ece5760/
   2. https://www.coursera.org/specializations/fpga-design ( You can also apply for financial aid ).
   3. https://www.coursera.org/learn/fpga-intro
   
+  # FPGA Papers
+
+  - [Github_link](https://github.com/markram1729/RDfpga)
 
    # FPGA (e-books)
    1. https://www.fpgakey.com/
