@@ -181,7 +181,7 @@ This repository contains some introductory level course review for learning abou
     
    1. `Xilinx(AMD) VIVADO ( webpack edition is free to be installed)`.
 
-      -[XILINX_AMD](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/archive.html)
+       [XILINX_AMD](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/archive.html)
       
       - [DIGILENT_TUTORIAL_INSTALLING_VIVADO_VITIS](https://digilent.com/reference/programmable-logic/guides/installing-vivado-and-vitis)
       
@@ -194,7 +194,7 @@ This repository contains some introductory level course review for learning abou
       - watch this video -:
        [Link](https://youtu.be/yW7t28XaVEs)
      
-   ### installed the vivado ?
+   > installed the *vivado* ?
 
    - Then watch this video to know,  how to get started with ---:
 
